@@ -1,0 +1,270 @@
+
+
+/*============
+
+This file only contains the theme color schemes, (not the style ) If you want to change the color schemes of the theme 
+just change the color code  and rgba value. The whole theme color will be changed.
+
+===========*/
+
+
+
+
+
+/* Filter the 'background' value classes*/
+
+.onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label,
+.switcher .switch_btn button, 
+
+
+.sticky-header .main-menu .navigation > li.current-menu-item > a,
+
+
+
+
+.scroll-to-top,
+.sponsors-style-two .tooltip-inner,
+.sidebar .search-box .form-group button,
+.sidebar .download-list li a,
+.skills-box .skill-column .skill-bar .bar-inner .bar,
+.rangeslider-widget button
+.error-section .search-website .form-group button:hover,
+.error-section .search-website .form-group input:focus + button,
+.testimonial .testimonial-item .content span,
+.onoffswitch-label,
+.onoffswitch-checkbox:checked + .onoffswitch-label,
+.default-shop-item .inner-box .image-box .overlay-box .cart-btn,
+.onoffswitch-label,
+.fancybox-next:hover span:before,
+.fancybox-prev:hover span:before,
+.sidebar .popular-tags a:hover,
+.fancybox-next:hover span:before,
+.fancybox-prev:hover span:before,
+.sidebar .popular-tags a:hover,
+.btn-style-one,
+.btn-style-two:hover,
+.btn-style-three,
+.btn-style-four:hover,
+.btn-style-five:hover,
+.scroll-to-top:hover,
+.sticky-header .main-menu .navigation > li.current-menu-item > a,
+.info-block-one .inner-box:hover .icon-box,
+.member-style-two .overlay-box .social-links li a:hover,
+.news-style-two .overlay-box .link-box:hover .fa,
+.blog-details .post-options .social-links li a:hover,
+.main-footer .social-links a:hover,
+.main-footer .newsletter-widget input[type="submit"],
+.main-footer .newsletter-widget button,
+.testimonial-style-two .owl-dots .owl-dot span:before,
+.fluid-section-two .owl-prev:hover,
+.fluid-section-two .owl-next:hover,
+.accordion-box .block .acc-btn.active .icon-outer,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.contact-section .contact-info li:hover .icon-box,
+.project-details .project-progress .bar-inner,
+.project-details .social-links li a:hover,
+.team-details .social-links li a:hover,
+.team-details .project-progress .bar-inner,
+.default-shop-item .inner-box .image-box .item-sale-tag,
+.skills-box.style_2 .skill-column .skill-bar .bar-inner .bar,
+.main-slider .tp-bullets.preview3 .bullet.selected,
+.post-filter li span:before,
+.rangeslider-widget button,
+.main-menu .navbar-header .navbar-toggle,
+
+
+
+
+
+
+.theme_bg_color
+{
+	background: #48c7ec;
+}
+
+.main-slider .tp-bullets.preview3 .bullet:hover, 
+.main-slider .tp-bullets.preview3 .bullet.selected {
+  background: #48c7ec !important;
+}
+
+/* Filter the 'color' value classes*/
+
+
+
+.btn-style-one:hover,
+.btn-style-three:hover,
+.btn-style-four:hover,
+.btn-style-five,
+.theme_color,
+.main-header .header-top-one .top-links ul li a:hover,
+.main-header .header-top-one .social-links li a:hover,
+.main-header .search-box-btn:hover,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li.current-menu-item > a,
+.main-header.header-style-three .info-box .icon-box,
+.info-block-one .inner-box .read-more:hover,
+.team-member .social-links li a:hover,
+.team-member .lower-box h4 a:hover,
+.member-style-two .lower-box h4 a:hover,
+.team-section .owl-nav .owl-prev:hover,
+.team-section .owl-nav .owl-next:hover,
+.testimonial-style-one .carousel-content .slide .icon-box,
+.testimonial-style-one .carousel-pager .pager .designation,
+.news-style-one .content-box h3 a:hover,
+.news-style-two .lower-box h3 a:hover,
+.footer-upper .twitter-feeds .feed a,
+.main-footer .news-widget .news-item h4 a:hover,
+.main-footer .popular-posts .text a:hover,
+.featured-post h3 a:hover,
+.featured-post .read-more:hover,
+.fluid-section-one .left-column .info-list li .icon,
+.testimonial-style-two .slide .icon-box,
+.testimonial-style-two .author-info .designation,
+.tweets-section.style-two .owl-nav .owl-prev:hover,
+.tweets-section.style-two .owl-nav .owl-next:hover,
+.testimonial-style-three .slide .icon-box,
+.testimonial-style-three .owl-prev:hover,
+.testimonial-style-three .owl-next:hover,
+.page-title .bread-crumb-outer .bread-crumb li a:hover,
+.page-title .bread-crumb-outer .bread-crumb li.active,
+.contact-section .contact-info li .icon-box,
+.sidebar .popular-posts .text a:hover,
+.sidebar .list li a:hover,
+.sidebar .service-list li a:hover,
+.sidebar .service-list li.current a,
+.testimonial-style-four .author-info .designation,
+.sidebar .best-sellers .item a:hover,
+.sidebar .best-sellers .item a:hover,
+.default-shop-item .inner-box .lower-content h3 a:hover,
+.product-details .basic-details .details-header .item-price,
+.product-details .basic-details .item-meta a,
+.prod-tabs .tab-btns .tab-btn.active-btn,
+.prod-tabs .reviews-container .rating,
+.prod-tabs .add-review .rating .rate-box:hover,
+.prod-tabs .add-review .rating .rate-box:focus,
+.prod-tabs .add-review .rating .rate-box:active,
+.cart-table tbody tr .remove-btn:hover,
+.main-footer .popular-posts .post-meta li a,
+.main-footer .popular-posts .post-meta li a i,
+.main-slider .tp-caption .theme-btn.btn-style-one:hover,
+.main-slider .tp-caption .theme-btn.btn-style-three:hover,
+.sidebar .popular-posts .post-meta li a i,
+.sidebar .best-sellers .item .rating,
+.default-shop-item .inner-box .lower-content .rating .fa,
+.testimonial .testimonial-item .rating,
+.post-filter li:hover span, 
+.post-filter li.active span,
+.checkout-page .default-links li a,
+
+
+
+.thm-color:before {
+	color:#48c7ec;
+}
+
+
+
+
+
+
+/* Filter the 2px solid border value classes */
+
+.sec-title h2:before,
+.sec-title h2:after,
+.btn-style-one,
+.btn-style-two:hover,
+.btn-style-three,
+.btn-style-five,
+.team-member:hover .inner-box,
+.main-slider .tp-bullets.preview3 .bullet,
+.main-slider .tp-bullets.preview3 .bullet,
+.main-menu .navigation > li > ul,
+.service-block2 .inner-box .image-box .overlay-box,
+figure.effect-bubba figcaption::before,
+figure.effect-bubba figcaption::after,
+.fluid-section-one .left-column .info-list li .icon,
+.fluid-section-one .right-column .title h3:after,
+.fluid-section-one .left-column .title h3:after,
+.sidebar-widget .sidebar-title h3:before,
+.sidebar-widget .sidebar-title h3:after,
+.rangeslider-widget button,
+.rangeslider-widget .noUi-handle,
+.contact-section .contact-info li .icon-box,
+.contact-section h2:before,
+.contact-section h2:after,
+.main-menu .navbar-header .navbar-toggle,
+.main-header .search-box-outer .dropdown-menu,
+.main-header .search-panel input:focus, 
+.main-header .search-panel select:focus,
+.default-form input:focus, 
+.default-form select:focus, 
+.default-form textarea:focus,
+.comment-form .form-group input[type="text"]:focus, 
+.comment-form .form-group input[type="password"]:focus, 
+.comment-form .form-group input[type="tel"]:focus, 
+.comment-form .form-group input[type="email"]:focus, 
+.comment-form .form-group select:focus, 
+.comment-form .form-group textarea:focus,
+.sidebar .search-box .form-group input:focus,
+.prod-tabs .tab-btns .tab-btn.active-btn,
+.product-details .basic-details .quantity-spinner:focus,
+
+
+
+
+
+
+
+.border-color {
+	border-color: #48c7ec;
+}
+
+.main-slider .tp-bullets.preview3 .bullet,
+.main-slider .tp-bullets.preview3 .bullet{
+  border-color: #48c7ec !important;
+}
+
+.sponsors-style-two .tooltip.top .tooltip-arrow {
+    border-top-color: #48c7ec;
+}
+
+/* logo background */
+
+.main-header .logo a {
+    background-image: url(../../images/home/logo1.png);
+}
+
+.main-header.fixed-header .logo a {
+    background-image: url(../../images/home/smallogo1.png);
+}
+
+
+
+
+/* change the theme logo for your own color schemes */
+
+
+
+
+/* Contain the color schemes when the menu is stick*/
+.fixed {
+  position: fixed;
+  background: #272727;
+  top:0;
+  left:0;
+  width: 100%;
+  z-index: 9999;
+  animation-name: fixed-bouce;
+  animation-duration:1s;
+  -webkit-box-shadow: 0px 13px 30px -12px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 13px 30px -12px rgba(0,0,0,0.75);
+	box-shadow: 0px 13px 30px -12px rgba(0,0,0,0.75);
+}
+.fixed .search_icon {
+	background-color: #2b2b2b;
+}
+.fixed #search {
+	background: #2b2b2b;
+}
